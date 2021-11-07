@@ -1,0 +1,15 @@
+/Users/hakkiayman/Desktop/VisualStudioCode/arrays/bin/Debug/net5.0/arrays.deps.json
+/Users/hakkiayman/Desktop/VisualStudioCode/arrays/bin/Debug/net5.0/arrays.runtimeconfig.json
+/Users/hakkiayman/Desktop/VisualStudioCode/arrays/bin/Debug/net5.0/arrays.runtimeconfig.dev.json
+/Users/hakkiayman/Desktop/VisualStudioCode/arrays/bin/Debug/net5.0/arrays.dll
+/Users/hakkiayman/Desktop/VisualStudioCode/arrays/bin/Debug/net5.0/ref/arrays.dll
+/Users/hakkiayman/Desktop/VisualStudioCode/arrays/bin/Debug/net5.0/arrays.pdb
+/Users/hakkiayman/Desktop/VisualStudioCode/arrays/obj/Debug/net5.0/arrays.csproj.AssemblyReference.cache
+/Users/hakkiayman/Desktop/VisualStudioCode/arrays/obj/Debug/net5.0/arrays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hakkiayman/Desktop/VisualStudioCode/arrays/obj/Debug/net5.0/arrays.AssemblyInfoInputs.cache
+/Users/hakkiayman/Desktop/VisualStudioCode/arrays/obj/Debug/net5.0/arrays.AssemblyInfo.cs
+/Users/hakkiayman/Desktop/VisualStudioCode/arrays/obj/Debug/net5.0/arrays.csproj.CoreCompileInputs.cache
+/Users/hakkiayman/Desktop/VisualStudioCode/arrays/obj/Debug/net5.0/arrays.dll
+/Users/hakkiayman/Desktop/VisualStudioCode/arrays/obj/Debug/net5.0/ref/arrays.dll
+/Users/hakkiayman/Desktop/VisualStudioCode/arrays/obj/Debug/net5.0/arrays.pdb
+/Users/hakkiayman/Desktop/VisualStudioCode/arrays/obj/Debug/net5.0/arrays.genruntimeconfig.cache
